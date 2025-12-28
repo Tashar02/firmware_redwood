@@ -1,0 +1,4 @@
+Global/*.zip filter=lfs diff=lfs merge=lfs -text
+Europe/*.zip filter=lfs diff=lfs merge=lfs -text
+India/*.zip filter=lfs diff=lfs merge=lfs -text
+China/*.zip filter=lfs diff=lfs merge=lfs -text
